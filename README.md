@@ -29,7 +29,7 @@ Here are a few repos that I'm proud of:
 * **[NanoMath](https://github.com/agmada-asa/NanoMath)** -  Architected a 136M parameter GPT Language Model from scratch using Python and PyTorch to perform algorithmic arithmetic.
 * **[TAPE](https://github.com/agmada-asa/TAPE)** - Built an automated podcast clip generator by chaining OpenAI Whisper and Llama 3.2.
 * **[Nexus](https://github.com/agmada-asa/Nexus)** - Developed a privacy-first local AI chat application utilising RAG, Swift, and TypeScript for offline document analysis.
-* **[Mixhaus](https://beta.mixhaus.workers.dev/)** - Building an automated version control and collaboration platform for music producers to instantly sync, track, and share DAW exports.
+* **[Mixhaus](https://mixhaus.app)** - Building an automated version control and collaboration platform for music producers to instantly sync, track, and share DAW exports.
 * **[Streem](https://github.com/agmada-asa/Streem)** - A web based streaming service built with a custom recommendation algorithm and ML workflows.
 
 ---
