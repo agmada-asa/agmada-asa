@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # 👋 Hello, I’m Allen
 
-I am a Computer Science student at the University of Manchester. I'm currently working on AI/ML projects, full-stack web development, and building efficient data pipelines. 
+I am a Computer Science student at the University of Manchester. I'm currently working on AI/ML projects, full-stack web development, and building [Mixhaus](https://mixhaus.app). 
 
 ## 🛠️ Technical Skills
 * **Languages**: Python, TypeScript, and Java.
